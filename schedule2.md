@@ -2,7 +2,7 @@
 1. Marcus Ström (marcstro)
 2. Mikael F. (Crezze)
 3. Niklas Helander (nikalsh)
-4. Kenny Hoang (Flaakan ) / Johnny (keho1801)
+4. Kenny Hoang (keho1801) / Johnny (Flaakan)
 5. Jonas Hallström (relaxmeister)
 6. Jesper C. (Jeppe90)
 7. 
@@ -15,7 +15,7 @@
 |-------------|:-------------:|
 | 13.00-13.10 |    Team 2     |
 | 13.15-13.25 |    Team 1     |
-| 13.30-13.40 |               |
+| 13.30-13.40 |    Team 4     |
 | 13.45-13.55 |               |
 | 14.00-14.10 |               |
 | 14.15-14.25 |               |
