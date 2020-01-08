@@ -4,7 +4,7 @@
 3. Niklas Helander (nikalsh)
 4. Kenny Hoang (Flaakan ) / Johnny (keho1801)
 5. Jesper C. (Jeppe90)
-6. 
+6. Lovisa (LovisaLybeck)
 7. 
 8. 
 
